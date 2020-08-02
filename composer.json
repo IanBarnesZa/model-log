@@ -1,5 +1,5 @@
 {
-    "name": "model-log",
+    "name": "ianbarnes/model-log",
     "description": "Voyager Model Log",
     "type": "library",
     "tags": [
@@ -15,6 +15,10 @@
     "authors": [{
         "name": "Jahongir Dustqulov",
         "email": "jahondust@gmail.com"
+    },
+    {
+        "name": "Ian Barnes",
+        "email": "ian@barnes.co.za"
     }],
     "autoload": {
         "psr-4": {
