@@ -12,13 +12,14 @@
         "jenssegers/agent": "^2.6"
     },
     "license": "MIT",
-    "authors": [{
-        "name": "Jahongir Dustqulov",
-        "email": "jahondust@gmail.com"
-    },
+    "authors": [
     {
         "name": "Ian Barnes",
         "email": "ian@barnes.co.za"
+    },
+    {
+        "name": "Jahongir Dustqulov",
+        "email": "jahondust@gmail.com"
     }],
     "autoload": {
         "psr-4": {
